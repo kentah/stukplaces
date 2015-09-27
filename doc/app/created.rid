@@ -1,0 +1,8 @@
+Sun, 27 Sep 2015 16:27:54 -0500
+README.rdoc	Mon, 14 Sep 2015 14:25:06 -0500
+app/controllers/application_controller.rb	Mon, 14 Sep 2015 14:25:06 -0500
+app/controllers/pages_controller.rb	Mon, 14 Sep 2015 14:39:46 -0500
+app/controllers/registrations_controller.rb	Mon, 14 Sep 2015 15:30:19 -0500
+app/helpers/application_helper.rb	Mon, 14 Sep 2015 14:25:06 -0500
+app/helpers/pages_helper.rb	Mon, 14 Sep 2015 14:39:46 -0500
+app/models/user.rb	Mon, 14 Sep 2015 15:39:03 -0500
